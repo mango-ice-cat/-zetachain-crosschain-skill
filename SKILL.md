@@ -1,8 +1,8 @@
 ---
 name: ZetaChain Crosschain
 description: ZetaChain 原生跨链工具：支持从 EVM 链 deposit 资产到 ZetaChain、触发 universal contract call、监控 CCTX 状态。适用于 AI agent 自动化跨链迁移、DCA、whale 跟踪、多链事件响应等场景。
-version: 0.2.0
-homepage: https://github.com/你的用户名/zetachain-openclaw-skill
+version: 1.0.0
+homepage: https://github.com/mango-ice-cat/zetachain-crosschain-skill
 tags: ["crosschain", "zetachain", "blockchain", "web3", "ai-agent", "omnichain"]
 requires: {"tools": ["fetch", "api_call", "shell"]}
 ---
